@@ -14,3 +14,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+
+<!-- Typing Effect (Use in HTML or embed with GIF alternative for README) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi+I'm+Abusha813;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
