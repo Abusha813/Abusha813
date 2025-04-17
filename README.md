@@ -1,26 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Abusha813's Profile</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="profile-card">
-    <h1>👋 Hi, I’m <span class="username">@Abusha813</span></h1>
-    <ul class="profile-info">
-      <li>👀 I’m interested in <span class="placeholder">...</span></li>
-      <li>🌱 I’m currently learning <span class="placeholder">...</span></li>
-      <li>💞️ I’m looking to collaborate on <span class="placeholder">...</span></li>
-      <li>📫 How to reach me: <span class="placeholder">...</span></li>
-      <li>😄 Pronouns: <span class="placeholder">...</span></li>
-      <li>⚡ Fun fact: <span class="placeholder">...</span></li>
-    </ul>
-    <footer>
-      <p>✨ This is a special repository because its <code>README.md</code> appears on your GitHub profile!</p>
-    </footer>
-  </div>
-</body>
-</html>
+# 👋 Hi, I’m @Abusha813
 
+- 👀 I’m interested in web development and AI
+- 🌱 I’m currently learning React and Python
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 How to reach me: abusha813@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I make better code at 2am 😄
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abusha813&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abusha813&show_icons=true&theme=radical)
+
+### 🚀 Languages & Tools:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
