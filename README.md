@@ -10,11 +10,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- WakaTime Stats -->
-<!-- Replace YOUR_USERNAME with your WakaTime username -->
-<!-- Requires linking your GitHub and WakaTime accounts -->
-<!-- Sign up first at https://wakatime.com -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)](https://wakatime.com/)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Abusha813&theme=radical)](https://wakatime.com/)
 
 
 # 👋 Hi, I’m @Abusha813
@@ -22,7 +18,7 @@
 - 👀 I’m interested in web development and AI
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me: abusha813@gmail.com
+- 📫 How to reach me: abusha8134@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I make better code at 2am 😄
 
