@@ -23,3 +23,54 @@
   </div>
 </body>
 </html>
+
+body {
+  background-color: #f4f4f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+  color: #333;
+}
+
+.profile-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  padding: 30px;
+  max-width: 600px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+.username {
+  color: #007acc;
+  font-weight: bold;
+}
+
+.profile-info {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px 0;
+}
+
+.profile-info li {
+  margin-bottom: 10px;
+  font-size: 1.1rem;
+}
+
+.placeholder {
+  font-style: italic;
+  color: #555;
+}
+
+footer {
+  font-size: 0.9rem;
+  color: #777;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+}
