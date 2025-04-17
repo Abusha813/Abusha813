@@ -5,6 +5,17 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abusha813&bg_color=0d1117&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Visitor Badge](https://visitcount.itsvg.in/api?id=Abusha813&label=Profile%20Views&color=12&icon=5&pretty=true)
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- WakaTime Stats -->
+<!-- Replace YOUR_USERNAME with your WakaTime username -->
+<!-- Requires linking your GitHub and WakaTime accounts -->
+<!-- Sign up first at https://wakatime.com -->
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical)](https://wakatime.com/)
+
 
 # 👋 Hi, I’m @Abusha813
 
@@ -22,6 +33,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&logo=python&logoColor=white)
+
 
 
 
